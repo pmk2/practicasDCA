@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Cambio para probar el hook
+// Cambio para probar el hook precommit
 
 int suma(int a, int b) {
         int resul = 0;
